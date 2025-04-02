@@ -4,6 +4,6 @@
 
 ## Learn more about me **[here]()**~ <----
 
-[ART]()
-[MUSIC]()
-[PROGRAMMING]()
+[ART](./art/art.md)\
+[MUSIC]()\
+[PROGRAMMING]()\
