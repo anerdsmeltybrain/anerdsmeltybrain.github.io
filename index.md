@@ -14,17 +14,17 @@ ME BLOGS
 
 MY WORKOUT ROUTINE
 
-Monday - Chest/Back
-Tuesday - Legs
-Wednesday - Shoulders/Arms/Accessories 
-Thursday - Chest/Back
-Friday - Legs
-Saturday - Shoulders/Arms/Accessories 
-Sunday - Free day
-Everyday - Passions
+**Monday** - Chest/Back\
+**Tuesday** - Legs\
+**Wednesday** - Shoulders/Arms/Accessories\ 
+**Thursday** - Chest/Back\
+**Friday** - Legs\
+**Saturday** - Shoulders/Arms/Accessories\
+**Sunday** - Free day\
+**Everyday** - Passions\
 
 TOOLS OF TRADE
 
-Art Programming - Krita
-Text Editor - Vim
-Music Production - Sunvox
+**Art Programming** - Krita\
+**Text Editor** - Vim\
+**Music Production** - Sunvox\
