@@ -1,6 +1,8 @@
 # Hello World
 
-> welcome to my website I'm still learning the ropes however I'm happy to be here
+> welcome to anerdsmeltybrain's website I will post here about my life on my blogs and just regular things I think about.
+My main goal is to use markdown all the time to write and update this website and it gives me a reason to keep opening vim
+and working as much as I can and work on committing on my github.
 
 ## Learn more about me **[here]()**~ <----
 
