@@ -4,13 +4,13 @@
 My main goal is to use markdown all the time to write and update this website and it gives me a reason to keep opening vim
 and working as much as I can and work on committing on my github.
 
-##ME BLOGS
+## ME BLOGS
 
 [ART](./art/art.md)\
 [MUSIC](./music/music.md)\
 [PROGRAMMING](./prog/prog.md)\
 
-##MY WORKOUT ROUTINE
+## MY WORKOUT ROUTINE
 
 **Monday** - Chest/Back\
 **Tuesday** - Legs\
@@ -21,7 +21,7 @@ and working as much as I can and work on committing on my github.
 **Sunday** - Free day\
 **Everyday** - Passions\
 
-##TOOLS OF TRADE
+## TOOLS OF TRADE
 
 **Art Programming** - Krita\
 **Text Editor** - Vim\
