@@ -1,6 +1,6 @@
 # anerdsmeltybrain.github.io
  
-##TODO LIST | 4 - 8 - 2025
+## TODO LIST | 4 - 8 - 2025
 
 ## ART
 - [] 1 Piece
