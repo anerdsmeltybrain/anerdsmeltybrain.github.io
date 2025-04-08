@@ -2,11 +2,11 @@
  
 ##TODO LIST | 4 - 8 - 2025
 
-##ART
+## ART
 - [] 1 Piece
 - [] 1 Request
-##MUSIC
+## MUSIC
 - [] 1 track
 - [] 1 cover track
-##PROGRAMMING
+## PROGRAMMING
 - [] 1 random program
