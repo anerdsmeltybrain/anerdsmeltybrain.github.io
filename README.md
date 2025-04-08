@@ -6,25 +6,25 @@ and working as much as I can and work on committing on my github.
  
 ## TODO LIST | 4 - 8 - 2025
 
-## ART
+# ART
 - [x] 1 Piece
 - [] 1 Request
-## MUSIC
+# MUSIC
 - [] 1 track
-## PROGRAMMING
+# PROGRAMMING
 - [] 1 random programming prob.
 
 ## MY BLOGS
 
 [ART](./art/art.md)\
 [MUSIC](./music/music.md)\
-[PROGRAMMING](./prog/prog.md)\
+[PROGRAMMING](./prog/prog.md)
 
 ## MY WORKOUT ROUTINE
 
 **Monday** - Chest/Back\
 **Tuesday** - Legs\
-**Wednesday** - Shoulders/Arms/Accessories\ 
+**Wednesday** - Shoulders/Arms/Accessories\
 **Thursday** - Chest/Back\
 **Friday** - Legs\
 **Saturday** - Shoulders/Arms/Accessories\
@@ -35,4 +35,4 @@ and working as much as I can and work on committing on my github.
 
 **Art Programming** - Krita\
 **Text Editor** - Vim\
-**Music Production** - Sunvox\
+**Music Production** - Sunvox
