@@ -4,15 +4,14 @@
 My main goal is to use markdown all the time to write and update this website and it gives me a reason to keep opening vim
 and working as much as I can and work on committing on my github.
  
-## TODO LIST | 4 - 8 - 2025
+## TODO LIST | 4 - 13 - 2025
 
 # ART
-- [x] 1 Piece
-- [] 1 Request
+- [] 1 Piece
 # MUSIC
 - [] 1 track
 # PROGRAMMING
-- [] 1 random programming prob.
+- [] 1 programming problem
 
 ## MY BLOGS
 
@@ -29,7 +28,7 @@ and working as much as I can and work on committing on my github.
 **Friday** - Legs\
 **Saturday** - Shoulders/Arms/Accessories\
 **Sunday** - Free day\
-**Everyday** - Passions\
+**Everyday** - Passions
 
 ## TOOLS OF TRADE
 
