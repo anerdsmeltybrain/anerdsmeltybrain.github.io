@@ -1,6 +1,6 @@
 # Books
 
-## books I'm finished with or in progress
+## books/courses I'm finished with or in progress
 
 ### Finance
 - [x] Candlestick trading bible, Munekisa Homma
