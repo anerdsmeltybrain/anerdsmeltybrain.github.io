@@ -15,6 +15,7 @@
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
 - [x] FreeCodeCamp C# essentials course, FreeCodeCamp
 - [x] A Byte of Python, [LINK](https://python.swaroopch.com/)
+- [ ] The Rust Programming Language, [LINK](https://doc.rust-lang.org/stable/book/title-page.html)
 ### Art
 - [ ] 
 - [ ] 
