@@ -9,7 +9,7 @@ and working as much as I can and work on committing on my github.
 
 ## MY SHOWER THOUGHTS
 
-[ART](./shower/shower.md)\
+[SHOWER THOUGHTS](./shower/shower.md)\
 
 ## MY BLOGS
 
