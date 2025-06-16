@@ -13,6 +13,7 @@
 ### Programming
 - [ ] Learning the Unix Operating System, O'Reily
 - [ ] Beej's Guide to C Programming
+- [ ] A Book on C: Ansi C, Al Kelley/Ira Pohl
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
 - [x] FreeCodeCamp C# essentials course, FreeCodeCamp
 - [x] A Byte of Python, [LINK](https://python.swaroopch.com/)
