@@ -30,6 +30,11 @@ and working as much as I can and work on committing on my github.
 
 ## TOOLS OF TRADE
 
+<<<<<<< HEAD
 **Art** - Grafx2/Blender\
 **Programming/Text Editor** - Vim/GDB/Makefile\
+=======
+**Art** - grafx2\
+**Text Editor\Programming** - Vim\
+>>>>>>> 1cfd33b2e6225eb9f0b7e0ac7400a3de423a163d
 **Music Production** - Sunvox
