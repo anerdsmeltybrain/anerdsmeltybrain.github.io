@@ -30,6 +30,6 @@ and working as much as I can and work on committing on my github.
 
 ## TOOLS OF TRADE
 
-**Art Programming** - Krita\
-**Text Editor** - Vim\
+**Art** - Grafx2/Blender\
+**Programming/Text Editor** - Vim/GDB/Makefile\
 **Music Production** - Sunvox
