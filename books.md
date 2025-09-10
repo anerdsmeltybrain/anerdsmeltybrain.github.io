@@ -12,7 +12,7 @@
 - [ ]
 ### Programming
 - [ ] Learning the Unix Operating System, O'Reily
-- [ ] Beej's Guide to C Programming
+- [x] Beej's Guide to C Programming
 - [x] Beej's Guide to Computer Science
 - [ ] A Book on C: Ansi C, Al Kelley/Ira Pohl
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
