@@ -14,6 +14,8 @@
 - [ ] Learning the Unix Operating System, O'Reily
 - [x] Beej's Guide to C Programming
 - [x] Beej's Guide to Computer Science
+- [ ] C Traps and Pitfalls, Andrew Koenig
+- [ ] The C Programming Language, Second Edition, Brian W. K., Dennis M. R.
 - [ ] A Book on C: Ansi C, Al Kelley/Ira Pohl
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
 - [x] FreeCodeCamp C# essentials course, FreeCodeCamp
