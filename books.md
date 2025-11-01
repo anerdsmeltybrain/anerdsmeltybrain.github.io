@@ -8,15 +8,16 @@
 - [x] Long term secrets to short term trading, Larry Williams
 - [ ] The intelligent investor, Benjamin Graham
 ### Philosophy
-- [ ] What The Buddha Taught, Walpola Rahula
+- [x] What The Buddha Taught, Walpola Rahula
 - [ ]
 ### Programming
 - [ ] Learning the Unix Operating System, O'Reily
 - [x] Beej's Guide to C Programming
 - [x] Beej's Guide to Computer Science
+- [x] Beej's Guide to Network Programming
 - [ ] C Traps and Pitfalls, Andrew Koenig
 - [ ] The C Programming Language, Second Edition, Brian W. K., Dennis M. R.
-- [ ] A Book on C: Ansi C, Al Kelley/Ira Pohl
+- [x] A Book on C: Ansi C, Al Kelley/Ira Pohl
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
 - [x] FreeCodeCamp C# essentials course, FreeCodeCamp
 - [x] A Byte of Python, [LINK](https://python.swaroopch.com/)
