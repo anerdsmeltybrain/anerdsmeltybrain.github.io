@@ -11,11 +11,11 @@
 - [x] What The Buddha Taught, Walpola Rahula
 - [ ]
 ### Programming
-- [ ] Learning the Unix Operating System, O'Reily
+- [x] Learning the Unix Operating System, O'Reily
 - [x] Beej's Guide to C Programming
 - [x] Beej's Guide to Computer Science
 - [x] Beej's Guide to Network Programming
-- [ ] C Traps and Pitfalls, Andrew Koenig
+- [x] C Traps and Pitfalls, Andrew Koenig
 - [ ] The C Programming Language, Second Edition, Brian W. K., Dennis M. R.
 - [x] A Book on C: Ansi C, Al Kelley/Ira Pohl
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
