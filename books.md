@@ -6,6 +6,7 @@
 - [x] Candlestick trading bible, Munekisa Homma
 - [x] Naked Forex, Alex Nekritin
 - [x] Long term secrets to short term trading, Larry Williams
+- [x] The Four Biggest Mistakes in Futures Trading, Jay Kaeppel
 - [ ] The intelligent investor, Benjamin Graham
 ### Philosophy
 - [x] What The Buddha Taught, Walpola Rahula
