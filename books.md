@@ -8,6 +8,7 @@
 - [x] Long term secrets to short term trading, Larry Williams
 - [x] The Four Biggest Mistakes in Futures Trading, Jay Kaeppel
 - [ ] The intelligent investor, Benjamin Graham
+- [ ] How to Day Trade For A Living, Andrew Aziz
 ### Philosophy
 - [x] What The Buddha Taught, Walpola Rahula
 - [ ]
