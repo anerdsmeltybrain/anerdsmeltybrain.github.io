@@ -19,7 +19,7 @@
 - [x] Beej's Guide to Network Programming
 - [x] C Traps and Pitfalls, Andrew Koenig
 - [x] The C Programming Language, Second Edition, Brian W. K., Dennis M. R.
-- [ ] Modern C, Jens Gestedt
+- [x] Modern C, Jens Gestedt
 - [ ] C Unleashed, Heathfield, Kirby
 - [x] A Book on C: Ansi C, Al Kelley/Ira Pohl
 - [x] Learn you a Haskell for Great Good!, Miran Lipovaca
